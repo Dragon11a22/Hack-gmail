@@ -6,7 +6,7 @@ Hello
 
 # pkg install git
 
-# git clone https://github.com/NeloF4/brutegmail.git
+# git clone https://github.com/Dragon11a22/Hack-gmail.git
 
 # cd brutegmail
 
